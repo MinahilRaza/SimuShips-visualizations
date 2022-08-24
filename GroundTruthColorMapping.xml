@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RuleSet name="default">
+	<!-- object names cars same color -->
+	<Rule category="Boat" type="ObjectAlias" filter="*sail*" colorID="30"/>
+	<Rule category="Boat" type="ObjectAlias" filter="*motor*" colorID="20"/>
+	<Rule category="Boat" type="ObjectAlias" filter="*fishing*" colorID="80"/>
+	<Rule category="Boat" type="ObjectAlias" filter="*tug*" colorID="70"/>
+	<Rule category="Boat" type="ObjectAlias" filter="*cargo*" colorID="50"/>
+	<Rule category="Boat" type="ObjectAlias" filter="*ferry*" colorID="90"/>
+	<Rule category="Boat" type="ObjectName" filter="*Yach*" colorID="65"/>
+	<Rule category="Boat" type="ObjectName" filter="*ship*" colorID="130"/>
+	<Rule category="Obstacle" type="ObjectAlias" filter="*buoy*" colorID="140"/>
+	<Rule category="Obstacle" type="ObjectAlias" filter="*rock*" colorID="150"/>
+	<!-- Default color -->
+	<Rule category="default" type="ObjectName" filter="*" colorID="77"/>
+</RuleSet>
+
+
+
