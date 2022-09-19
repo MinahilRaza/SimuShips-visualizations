@@ -29,4 +29,4 @@ The annotations get stored in `annotated_images/annotations`. Run `TestBoundingB
 ## Results
 One example of a succesful run is shown below:
 
-<img src="https://user-images.githubusercontent.com/30044227/191004455-de4bffb8-13e2-4157-b7a5-031fb619c5f2.png" width="320"> <img src="https://user-images.githubusercontent.com/30044227/191004478-7daea630-0935-45b9-a9c8-a2f0fee7b13d.png" width="320"> <img src="https://user-images.githubusercontent.com/30044227/191004502-17158a85-5d8a-48b7-b8b6-2a1fb1cde762.png" width="320">
+<img src="https://user-images.githubusercontent.com/30044227/191004455-de4bffb8-13e2-4157-b7a5-031fb619c5f2.png" width="290"> <img src="https://user-images.githubusercontent.com/30044227/191004478-7daea630-0935-45b9-a9c8-a2f0fee7b13d.png" width="290"> <img src="https://user-images.githubusercontent.com/30044227/191004502-17158a85-5d8a-48b7-b8b6-2a1fb1cde762.png" width="290">
